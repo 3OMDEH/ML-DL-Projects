@@ -1,2 +1,2 @@
 # Machine-Learning-Projects-Beginner-
-These notebooks considers as the cornerstone of my evolution in Machine Learning
+These projects considers as the cornerstone of my evolution in ML/DL and NLP domains.
